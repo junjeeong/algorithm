@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d006c55-bc4c-4622-84ff-322643235b78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1029/src/BOJ9012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1029/src/BOJ1065.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1029/BOJ2839.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1029/BOJ2839.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/1029/BOJ9012.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1029/BOJ9012.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,15 +53,23 @@
     "project.structure.side.proportion": "0.25856698",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.BOJ1018.executor": "Run",
+    "애플리케이션.BOJ1065.executor": "Run",
     "애플리케이션.BOJ2839.executor": "Run",
     "애플리케이션.BOJ9012.executor": "Run",
     "애플리케이션.Main.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.BOJ9012">
+  <component name="RunManager" selected="애플리케이션.BOJ1065">
     <configuration name="BOJ1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ1018" />
       <module name="1028" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ1065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1065" />
+      <module name="1029" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BOJ1065" />
         <item itemvalue="애플리케이션.BOJ9012" />
         <item itemvalue="애플리케이션.BOJ2839" />
         <item itemvalue="애플리케이션.BOJ1018" />
@@ -104,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761635209994</updated>
       <workItem from="1761641514766" duration="1070000" />
-      <workItem from="1761642590930" duration="11393000" />
+      <workItem from="1761642590930" duration="13484000" />
     </task>
     <servers />
   </component>
