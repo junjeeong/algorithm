@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d006c55-bc4c-4622-84ff-322643235b78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1031/1031.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1103/1103.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1103/src/BOJ4949.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1104/1104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1104/src/BOJ1127.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -49,22 +51,25 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/junjeong/Documents/coding/sessac/algorithm/1031/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/junjeong/Documents/coding/sessac/algorithm/1104/src/Main.java",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.25856698",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.BOJ1018.executor": "Run",
+    "애플리케이션.BOJ1026.executor": "Run",
     "애플리케이션.BOJ1065.executor": "Run",
+    "애플리케이션.BOJ1127.executor": "Debug",
+    "애플리케이션.BOJ1763.executor": "Run",
     "애플리케이션.BOJ2839.executor": "Run",
     "애플리케이션.BOJ9012.executor": "Run",
     "애플리케이션.Main.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.BOJ1065">
-    <configuration name="BOJ1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1018" />
-      <module name="1028" />
+  <component name="RunManager" selected="애플리케이션.BOJ1127">
+    <configuration name="BOJ1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1026" />
+      <module name="1104" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,9 +81,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2839" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ2839" />
-      <module name="1029" />
+    <configuration name="BOJ1127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1127" />
+      <module name="1104" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ1763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1763" />
+      <module name="1103" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,10 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BOJ1127" />
+        <item itemvalue="애플리케이션.BOJ1026" />
+        <item itemvalue="애플리케이션.BOJ1763" />
         <item itemvalue="애플리케이션.BOJ1065" />
         <item itemvalue="애플리케이션.BOJ9012" />
-        <item itemvalue="애플리케이션.BOJ2839" />
-        <item itemvalue="애플리케이션.BOJ1018" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +130,9 @@
       <workItem from="1761641514766" duration="1070000" />
       <workItem from="1761642590930" duration="15044000" />
       <workItem from="1761810463456" duration="1336000" />
-      <workItem from="1761919636170" duration="554000" />
+      <workItem from="1761919636170" duration="744000" />
+      <workItem from="1762165283084" duration="4188000" />
+      <workItem from="1762232293022" duration="4504000" />
     </task>
     <servers />
   </component>
@@ -136,6 +151,14 @@
           <url>file://$PROJECT_DIR$/1031/src/BOJ1158.java</url>
           <line>5</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1104/src/BOJ1127.java</url>
+          <line>17</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
