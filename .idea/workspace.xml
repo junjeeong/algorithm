@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d006c55-bc4c-4622-84ff-322643235b78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1103/1103.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1103/src/BOJ4949.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1104/1104.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1104/src/BOJ1127.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1105/1105.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1105/src/BOJ1269_v1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1105/src/BOJ1269_v2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -38,6 +37,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BOJ1269.executor": "Run",
+    "Application.BOJ1269_v2.executor": "Run",
+    "Application.BOJ2003.executor": "Debug",
+    "Application.Main.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -51,7 +54,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/junjeong/Documents/coding/sessac/algorithm/1104/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/junjeong/Documents/coding/sessac/algorithm/1105/src/Main.java",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.25856698",
@@ -59,31 +62,24 @@
     "애플리케이션.BOJ1018.executor": "Run",
     "애플리케이션.BOJ1026.executor": "Run",
     "애플리케이션.BOJ1065.executor": "Run",
-    "애플리케이션.BOJ1127.executor": "Debug",
+    "애플리케이션.BOJ1127.executor": "Run",
     "애플리케이션.BOJ1763.executor": "Run",
     "애플리케이션.BOJ2839.executor": "Run",
     "애플리케이션.BOJ9012.executor": "Run",
     "애플리케이션.Main.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.BOJ1127">
-    <configuration name="BOJ1026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1026" />
-      <module name="1104" />
+  <component name="RunManager" selected="Application.BOJ1269_v2">
+    <configuration name="BOJ1269_v1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1269_v1" />
+      <module name="1105" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1065" />
-      <module name="1029" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ1127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1127" />
-      <module name="1104" />
+    <configuration name="BOJ1269_v2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1269_v2" />
+      <module name="1105" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,6 +87,13 @@
     <configuration name="BOJ1763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ1763" />
       <module name="1103" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2003" />
+      <module name="1105" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,11 +107,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.BOJ1127" />
-        <item itemvalue="애플리케이션.BOJ1026" />
-        <item itemvalue="애플리케이션.BOJ1763" />
-        <item itemvalue="애플리케이션.BOJ1065" />
-        <item itemvalue="애플리케이션.BOJ9012" />
+        <item itemvalue="Application.BOJ1269_v2" />
+        <item itemvalue="Application.BOJ1269_v1" />
+        <item itemvalue="Application.BOJ2003" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +133,8 @@
       <workItem from="1761810463456" duration="1336000" />
       <workItem from="1761919636170" duration="744000" />
       <workItem from="1762165283084" duration="4188000" />
-      <workItem from="1762232293022" duration="4504000" />
+      <workItem from="1762232293022" duration="7091000" />
+      <workItem from="1762315805064" duration="9358000" />
     </task>
     <servers />
   </component>
