@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d006c55-bc4c-4622-84ff-322643235b78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1111/1111.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1112.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1112/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/junjeong/Documents/coding/sessac/algorithm/1111/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/junjeong/Documents/coding/sessac/algorithm/1112/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.25856698",
@@ -142,7 +143,8 @@
       <workItem from="1762502816014" duration="356000" />
       <workItem from="1762757432904" duration="4243000" />
       <workItem from="1762784353150" duration="1687000" />
-      <workItem from="1762871853396" duration="485000" />
+      <workItem from="1762871853396" duration="2270000" />
+      <workItem from="1762940539902" duration="226000" />
     </task>
     <servers />
   </component>
