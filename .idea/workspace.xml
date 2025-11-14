@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d006c55-bc4c-4622-84ff-322643235b78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1113/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1114/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1112.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/junjeong/Documents/coding/sessac/algorithm/1113/src/main/java/org/example/Main.java",
+    "onboarding.tips.debug.path": "/Users/junjeong/Documents/coding/sessac/algorithm/1114/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.25856698",
@@ -73,7 +72,7 @@
     "애플리케이션.Main.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BOJ1748">
+  <component name="RunManager" selected="애플리케이션.BOJ1269_v2">
     <configuration name="BOJ10610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ10610" />
       <module name="1105" />
@@ -109,21 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.BOJ1748" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BOJ10610" />
-        <item itemvalue="Application.BOJ17219" />
-        <item itemvalue="Application.BOJ1269_v2" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
@@ -147,7 +137,10 @@
       <workItem from="1762784353150" duration="1687000" />
       <workItem from="1762871853396" duration="2270000" />
       <workItem from="1762940539902" duration="1093000" />
-      <workItem from="1763044228495" duration="425000" />
+      <workItem from="1763044228495" duration="1111000" />
+      <workItem from="1763084892572" duration="707000" />
+      <workItem from="1763088393981" duration="2000" />
+      <workItem from="1763111923767" duration="355000" />
     </task>
     <servers />
   </component>
@@ -189,6 +182,11 @@
           <url>file://$PROJECT_DIR$/1113/src/main/java/org/example/Main.java</url>
           <line>45</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1114/src/main/java/org/example/BOJ3036.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
