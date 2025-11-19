@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LEET125_v1 {
+public class p1_유효한팰린드롬_v1 {
 
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
