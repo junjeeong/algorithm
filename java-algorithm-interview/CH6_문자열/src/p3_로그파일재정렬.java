@@ -3,17 +3,18 @@ import java.util.List;
 import java.util.Scanner;
 
 public class p3_로그파일재정렬 {
+
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    int N =  sc.nextInt();
+    int N = sc.nextInt();
     sc.nextLine();
 
     List<String> letterList = new ArrayList<>();
     List<String> digitList = new ArrayList<>();
 
     for (int i = 1; i <= N; i++) {
-      String string =  sc.nextLine();
-      if(Character.isDigit(string.split(" ")[1].charAt(0))) {
+      String string = sc.nextLine();
+      if (Character.isDigit(string.split(" ")[1].charAt(0))) {
         digitList.add(string);
       } else {
         letterList.add(string);
@@ -25,7 +26,7 @@ public class p3_로그파일재정렬 {
       String[] s2x = s2.split(" ", 2);
 
       int compared = s1x[1].compareTo(s2x[1]);
-      if(compared == 0) {
+      if (compared == 0) {
         return s1x[0].compareTo(s2x[0]);
       } else {
         return compared;
