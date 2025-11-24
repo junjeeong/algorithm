@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d006c55-bc4c-4622-84ff-322643235b78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java-algorithm-interview/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm-interview/1119/1119.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm-interview/CH6/1119.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm-interview/1119/src/LEET125_v1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm-interview/CH6/src/LEET125_v1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm-interview/1119/src/LEET125_v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm-interview/CH6/src/LEET125_v2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm-interview/CH6/src/LEET125_v1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm-interview/CH6/src/p1_v1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm-interview/CH6/src/LEET125_v2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm-interview/CH6/src/p1_v2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +151,7 @@
       <workItem from="1763084892572" duration="707000" />
       <workItem from="1763088393981" duration="2000" />
       <workItem from="1763111923767" duration="355000" />
-      <workItem from="1763538089808" duration="2032000" />
+      <workItem from="1763538089808" duration="2472000" />
     </task>
     <servers />
   </component>
