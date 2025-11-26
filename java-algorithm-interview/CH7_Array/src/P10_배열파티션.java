@@ -1,28 +1,18 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
-import java.util.Scanner;
+void main() {
+  Scanner scanner = new Scanner(System.in);
+  List<Integer> pair = new ArrayList<>();
 
-public class P10_배열파티션 {
+  int[] nums = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
 
-  static void main() {
-    Scanner scanner = new Scanner(System.in);
-    List<Integer> pair = new ArrayList<>();
-    int[] arr = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(Integer::parseInt).toArray();
-    int sum = 0;
+  Arrays.sort(nums); // ex. [1,4,2,5,8,6,] -> [1,2,4,5,6,8]
 
-    Arrays.sort(arr);
-
-    for (int i : arr) {
-      pair.add(i);
-
-      if (pair.size() == 2) {
-        sum += Collections.min(pair);
-        pair.clear();
-      }
-    }
-
-    System.out.println(sum);
+  if (nums.length % 2 != 0) {
+    return;
   }
+
+  for (int i = 0; i < nums.length; i += 2) {
+    pair.add(Math.min(nums[i], nums[i + 1]));
+  }
+
+  System.out.println(pair.get(pair.size() - 1) + pair.get(pair.size() - 2));
 }
