@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ch8_LinkedList/Ch8_LinkedList.iml" filepath="$PROJECT_DIR$/Ch8_LinkedList/Ch8_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CH9_STACK.iml" filepath="$PROJECT_DIR$/CH9_STACK.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-algorithm-interview.iml" filepath="$PROJECT_DIR$/java-algorithm-interview.iml" />
     </modules>
   </component>
